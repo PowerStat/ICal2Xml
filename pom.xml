@@ -1,0 +1,225 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>de.powerstat.toolbaseline</groupId>
+    <artifactId>tbl-java-parent</artifactId>
+    <version>17.2.0</version>
+  </parent>
+
+  <groupId>de.powerstat.converter</groupId>
+  <artifactId>ical2xml</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+
+  <name>ical2xml</name>
+  <description>Convert icalendar to my xml format</description>
+  <url>https://www.powerstat.de/ical2xml.html</url>
+
+  <properties>
+    <license.inceptionYear>2024</license.inceptionYear>
+
+  </properties>
+
+  <distributionManagement>
+    <site>
+      <id>powerstat</id>
+      <url>sftp://${web.server}/ical2xml/</url>
+    </site>
+  </distributionManagement>
+
+  <scm>
+    <connection>scm:git:https://github.com/PowerStat/ICal2Xml.git</connection>
+    <developerConnection>scm:git:https://github.com/PowerStat/ICal2Xml.git</developerConnection>
+    <url>https://github.com/PowerStat/ICal2Xml</url>
+    <tag>HEAD</tag>
+  </scm>
+
+  <repositories>
+  </repositories>
+
+  <build>
+    <plugins>      
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+        <version>3.3.0</version>
+        <configuration>        
+          <mainClass>de.powerstat.converter.ical2xml.ICal2Xml</mainClass>
+          <commandlineArgs>"Abfuhrtermine.ics"</commandlineArgs> <!-- TODO change to your filename/path -->
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-enforcer-plugin</artifactId>
+        <version>3.5.0</version>
+        <executions>
+          <execution>
+            <id>enforce</id>
+            <configuration combine.self="override">
+              <rules>
+                <dependencyConvergence />
+                <!-- <banDuplicatePomDependencyVersions /> -->
+                <requirePluginVersions>
+                  <banLatest>true</banLatest>
+                  <banRelease>true</banRelease>
+                  <banSnapshots>true</banSnapshots>
+                  <phases>clean,deploy,site</phases>
+                </requirePluginVersions>
+                <!-- requireReleaseDeps /> -->
+                <requireUpperBoundDeps />
+                <!--
+                <reactorModuleConvergence>
+                  <message>The reactor is not valid</message>
+                  <ignoreModuleDependencies>false</ignoreModuleDependencies>
+                </reactorModuleConvergence>
+                -->
+                <!--
+                <requireEnvironmentVariable>
+                  <variableName>gpg.passphrase</variableName>
+                </requireEnvironmentVariable>
+                -->
+              </rules>
+            </configuration>
+            <goals>
+              <goal>enforce</goal>
+            </goals>
+          </execution>
+        </executions>
+        <configuration>
+          <rules>
+            <requireMavenVersion>
+              <version>3.8.5</version>
+            </requireMavenVersion>
+            <requireJavaVersion>
+              <version>${javaRelease}</version>
+            </requireJavaVersion>
+          </rules>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>com.societegenerale.commons</groupId>
+        <artifactId>arch-unit-maven-plugin</artifactId>
+        <version>3.0.2</version>
+        <configuration>
+          <rules>
+            <preConfiguredRules>
+              <rule>com.societegenerale.commons.plugin.rules.HexagonalArchitectureTest</rule>
+              <rule>com.societegenerale.commons.plugin.rules.NoAutowiredFieldTest</rule>
+              <rule>com.societegenerale.commons.plugin.rules.NoInjectedFieldTest</rule>
+              <rule>com.societegenerale.commons.plugin.rules.NoJavaUtilDateRuleTest</rule>
+              <rule>com.societegenerale.commons.plugin.rules.NoJodaTimeRuleTest</rule>
+              <rule>com.societegenerale.commons.plugin.rules.NoPowerMockRuleTest</rule>
+              <rule>com.societegenerale.commons.plugin.rules.NoPublicFieldRuleTest</rule>
+              <!-- <rule>com.societegenerale.commons.plugin.rules.NoStandardStreamRuleTest</rule> -->
+              <rule>com.societegenerale.commons.plugin.rules.NoTestIgnoreWithoutCommentRuleTest</rule>
+            </preConfiguredRules>
+          </rules>
+        </configuration>
+        <executions>
+          <execution>
+            <phase>test</phase>
+            <goals>
+              <goal>arch-test</goal>
+            </goals>
+          </execution>
+        </executions>
+        <dependencies>
+          <dependency>
+            <groupId>com.societegenerale.commons</groupId>
+            <artifactId>arch-unit-build-plugin-core</artifactId>
+            <version>3.1.1</version>
+          </dependency>
+        </dependencies>
+      </plugin>
+<!--
+      <plugin>
+        <groupId>org.graalvm.buildtools</groupId>
+        <artifactId>native-maven-plugin</artifactId>
+        <version>0.10.3</version>
+        <extensions>true</extensions>
+        <executions>
+          <execution>
+            <id>build-native</id>
+            <goals>
+              <goal>compile-no-fork</goal>
+            </goals>
+            <phase>package</phase>
+          </execution>
+          <!- -
+          <execution>
+            <id>test-native</id>
+            <goals>
+              <goal>test</goal>
+            </goals>
+            <phase>test</phase>
+          </execution>
+          - ->
+        </executions>
+        <configuration>
+          <mainClass>de.powerstat.converter.ical2xml.ICal2Xml</mainClass>
+        </configuration>
+      </plugin>
+-->
+    </plugins>
+  </build>
+
+  <reporting>
+    <plugins>
+
+    </plugins>
+
+  </reporting>
+
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>2.0.12</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.mnode.ical4j</groupId>
+        <artifactId>ical4j</artifactId>
+        <version>4.0.4</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.mnode.ical4j</groupId>
+        <artifactId>ical4j-vcard</artifactId>
+        <version>2.0.0-rc1</version>
+      </dependency>
+
+    </dependencies>
+  </dependencyManagement>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.mnode.ical4j</groupId>
+      <artifactId>ical4j</artifactId>
+      <version>4.0.4</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.ical4j</groupId>
+      <artifactId>ical4j-serializer</artifactId>
+      <version>0.3.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>de.powerstat.phplib</groupId>
+      <artifactId>templateengine</artifactId>
+      <version>2.2.0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-nop</artifactId>
+      <version>2.0.12</version>
+    </dependency>
+
+  </dependencies>
+
+</project>

@@ -1,0 +1,4 @@
+<events>
+  <!-- BEGIN BLK_EVENTS --><event startdate="{DATE}">{SUMMARY}</event>
+  <!-- END BLK_EVENTS -->
+</events>
