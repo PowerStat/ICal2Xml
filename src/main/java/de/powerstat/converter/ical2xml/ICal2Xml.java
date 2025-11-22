@@ -43,7 +43,7 @@ public final class ICal2Xml
     if (args.length != 1)
      {
       System.out.println("ical2xml filename.ics");
-      System.exit(1);
+      return;
      }
 
     final FileInputStream fin = new FileInputStream(args[0]);

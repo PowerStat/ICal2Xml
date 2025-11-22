@@ -6,7 +6,7 @@
 /**
  * ical to xml module.
  */
-module de.powerstat.converter.ical2xml
+open module de.powerstat.converter.ical2xml
  {
   exports de.powerstat.converter.ical2xml;
 
@@ -16,9 +16,9 @@ module de.powerstat.converter.ical2xml
 
   requires com.github.spotbugs.annotations;
   requires org.junit.jupiter.api;
+  requires org.junit.jupiter.params;
   requires org.junit.platform.launcher;
   requires org.junit.platform.suite.api;
-  requires org.junit.jupiter.params;
   // requires io.cucumber.java;
   // requires io.cucumber.junit.platform.engine;
   // requires nl.jqno.equalsverifier;
