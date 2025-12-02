@@ -14,5 +14,7 @@ module de.powerstat.converter.ical2xml
   requires ical4j.core;
   requires de.powerstat.phplib.templateengine;
   requires org.apache.logging.log4j;
+  requires org.checkerframework.checker.qual;
+  requires org.jmolecules.ddd;
 
  }

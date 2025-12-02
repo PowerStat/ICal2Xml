@@ -1,0 +1,2269 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//www.die-bremer-stadtreinigung.de//NONSGML c-ware 1.0//
+VERSION:2.0
+X-WR-CALNAME:Abfuhrdaten Bremer Stadtreinigung
+X-WR-CALDESC:Abfuhrtermine Bremen / 2024-2025 für \, arberger heerstraße
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:120222
+DTSTAMP:20240103T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240103T060000
+DTEND;VALUE=DATE-TIME:20240103T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111037
+DTSTAMP:20240110T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240110T060000
+DTEND;VALUE=DATE-TIME:20240110T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110257
+DTSTAMP:20240110T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240110T060000
+DTEND;VALUE=DATE-TIME:20240110T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120423
+DTSTAMP:20240113T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240113T060000
+DTEND;VALUE=DATE-TIME:20240113T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Tannenbaumabfuhr
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120223
+DTSTAMP:20240117T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240117T060000
+DTEND;VALUE=DATE-TIME:20240117T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111038
+DTSTAMP:20240124T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240124T060000
+DTEND;VALUE=DATE-TIME:20240124T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110258
+DTSTAMP:20240124T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240124T060000
+DTEND;VALUE=DATE-TIME:20240124T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120224
+DTSTAMP:20240131T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240131T060000
+DTEND;VALUE=DATE-TIME:20240131T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111039
+DTSTAMP:20240207T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240207T060000
+DTEND;VALUE=DATE-TIME:20240207T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110259
+DTSTAMP:20240207T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240207T060000
+DTEND;VALUE=DATE-TIME:20240207T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120225
+DTSTAMP:20240214T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240214T060000
+DTEND;VALUE=DATE-TIME:20240214T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111040
+DTSTAMP:20240221T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240221T060000
+DTEND;VALUE=DATE-TIME:20240221T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110260
+DTSTAMP:20240221T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240221T060000
+DTEND;VALUE=DATE-TIME:20240221T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120226
+DTSTAMP:20240228T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240228T060000
+DTEND;VALUE=DATE-TIME:20240228T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111041
+DTSTAMP:20240306T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240306T060000
+DTEND;VALUE=DATE-TIME:20240306T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110261
+DTSTAMP:20240306T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240306T060000
+DTEND;VALUE=DATE-TIME:20240306T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120227
+DTSTAMP:20240313T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240313T060000
+DTEND;VALUE=DATE-TIME:20240313T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111042
+DTSTAMP:20240320T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240320T060000
+DTEND;VALUE=DATE-TIME:20240320T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110262
+DTSTAMP:20240320T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240320T060000
+DTEND;VALUE=DATE-TIME:20240320T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120228
+DTSTAMP:20240327T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240327T060000
+DTEND;VALUE=DATE-TIME:20240327T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111043
+DTSTAMP:20240403T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240403T060000
+DTEND;VALUE=DATE-TIME:20240403T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110263
+DTSTAMP:20240403T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240403T060000
+DTEND;VALUE=DATE-TIME:20240403T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120229
+DTSTAMP:20240410T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240410T060000
+DTEND;VALUE=DATE-TIME:20240410T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111044
+DTSTAMP:20240417T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240417T060000
+DTEND;VALUE=DATE-TIME:20240417T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110264
+DTSTAMP:20240417T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240417T060000
+DTEND;VALUE=DATE-TIME:20240417T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120230
+DTSTAMP:20240424T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240424T060000
+DTEND;VALUE=DATE-TIME:20240424T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111045
+DTSTAMP:20240504T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240504T060000
+DTEND;VALUE=DATE-TIME:20240504T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110265
+DTSTAMP:20240504T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240504T060000
+DTEND;VALUE=DATE-TIME:20240504T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120231
+DTSTAMP:20240508T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240508T060000
+DTEND;VALUE=DATE-TIME:20240508T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111046
+DTSTAMP:20240515T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240515T060000
+DTEND;VALUE=DATE-TIME:20240515T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110266
+DTSTAMP:20240515T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240515T060000
+DTEND;VALUE=DATE-TIME:20240515T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120232
+DTSTAMP:20240522T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240522T060000
+DTEND;VALUE=DATE-TIME:20240522T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111047
+DTSTAMP:20240529T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240529T060000
+DTEND;VALUE=DATE-TIME:20240529T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110267
+DTSTAMP:20240529T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240529T060000
+DTEND;VALUE=DATE-TIME:20240529T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120233
+DTSTAMP:20240605T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240605T060000
+DTEND;VALUE=DATE-TIME:20240605T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111048
+DTSTAMP:20240612T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240612T060000
+DTEND;VALUE=DATE-TIME:20240612T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110268
+DTSTAMP:20240612T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240612T060000
+DTEND;VALUE=DATE-TIME:20240612T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120234
+DTSTAMP:20240619T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240619T060000
+DTEND;VALUE=DATE-TIME:20240619T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111049
+DTSTAMP:20240626T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240626T060000
+DTEND;VALUE=DATE-TIME:20240626T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110269
+DTSTAMP:20240626T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240626T060000
+DTEND;VALUE=DATE-TIME:20240626T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120235
+DTSTAMP:20240703T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240703T060000
+DTEND;VALUE=DATE-TIME:20240703T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111050
+DTSTAMP:20240710T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240710T060000
+DTEND;VALUE=DATE-TIME:20240710T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110270
+DTSTAMP:20240710T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240710T060000
+DTEND;VALUE=DATE-TIME:20240710T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120236
+DTSTAMP:20240717T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240717T060000
+DTEND;VALUE=DATE-TIME:20240717T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111051
+DTSTAMP:20240724T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240724T060000
+DTEND;VALUE=DATE-TIME:20240724T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110271
+DTSTAMP:20240724T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240724T060000
+DTEND;VALUE=DATE-TIME:20240724T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120237
+DTSTAMP:20240731T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240731T060000
+DTEND;VALUE=DATE-TIME:20240731T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111052
+DTSTAMP:20240807T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240807T060000
+DTEND;VALUE=DATE-TIME:20240807T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110272
+DTSTAMP:20240807T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240807T060000
+DTEND;VALUE=DATE-TIME:20240807T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120238
+DTSTAMP:20240814T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240814T060000
+DTEND;VALUE=DATE-TIME:20240814T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111053
+DTSTAMP:20240821T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240821T060000
+DTEND;VALUE=DATE-TIME:20240821T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110273
+DTSTAMP:20240821T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240821T060000
+DTEND;VALUE=DATE-TIME:20240821T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120239
+DTSTAMP:20240828T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240828T060000
+DTEND;VALUE=DATE-TIME:20240828T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111054
+DTSTAMP:20240904T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240904T060000
+DTEND;VALUE=DATE-TIME:20240904T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110274
+DTSTAMP:20240904T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240904T060000
+DTEND;VALUE=DATE-TIME:20240904T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120240
+DTSTAMP:20240911T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240911T060000
+DTEND;VALUE=DATE-TIME:20240911T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111055
+DTSTAMP:20240918T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240918T060000
+DTEND;VALUE=DATE-TIME:20240918T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110275
+DTSTAMP:20240918T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240918T060000
+DTEND;VALUE=DATE-TIME:20240918T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120241
+DTSTAMP:20240925T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20240925T060000
+DTEND;VALUE=DATE-TIME:20240925T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111056
+DTSTAMP:20241002T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241002T060000
+DTEND;VALUE=DATE-TIME:20241002T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110276
+DTSTAMP:20241002T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241002T060000
+DTEND;VALUE=DATE-TIME:20241002T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120242
+DTSTAMP:20241009T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241009T060000
+DTEND;VALUE=DATE-TIME:20241009T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111057
+DTSTAMP:20241016T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241016T060000
+DTEND;VALUE=DATE-TIME:20241016T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110277
+DTSTAMP:20241016T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241016T060000
+DTEND;VALUE=DATE-TIME:20241016T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120243
+DTSTAMP:20241023T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241023T060000
+DTEND;VALUE=DATE-TIME:20241023T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111058
+DTSTAMP:20241030T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241030T060000
+DTEND;VALUE=DATE-TIME:20241030T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110278
+DTSTAMP:20241030T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241030T060000
+DTEND;VALUE=DATE-TIME:20241030T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120244
+DTSTAMP:20241106T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241106T060000
+DTEND;VALUE=DATE-TIME:20241106T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111059
+DTSTAMP:20241113T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241113T060000
+DTEND;VALUE=DATE-TIME:20241113T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110279
+DTSTAMP:20241113T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241113T060000
+DTEND;VALUE=DATE-TIME:20241113T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120245
+DTSTAMP:20241120T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241120T060000
+DTEND;VALUE=DATE-TIME:20241120T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111060
+DTSTAMP:20241127T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241127T060000
+DTEND;VALUE=DATE-TIME:20241127T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110280
+DTSTAMP:20241127T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241127T060000
+DTEND;VALUE=DATE-TIME:20241127T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120246
+DTSTAMP:20241204T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241204T060000
+DTEND;VALUE=DATE-TIME:20241204T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111061
+DTSTAMP:20241211T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241211T060000
+DTEND;VALUE=DATE-TIME:20241211T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110281
+DTSTAMP:20241211T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241211T060000
+DTEND;VALUE=DATE-TIME:20241211T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:120247
+DTSTAMP:20241218T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241218T060000
+DTEND;VALUE=DATE-TIME:20241218T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111062
+DTSTAMP:20241221T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241221T060000
+DTEND;VALUE=DATE-TIME:20241221T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110282
+DTSTAMP:20241221T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20241221T060000
+DTEND;VALUE=DATE-TIME:20241221T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154374
+DTSTAMP:20250104T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250104T060000
+DTEND;VALUE=DATE-TIME:20250104T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145235
+DTSTAMP:20250108T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250108T060000
+DTEND;VALUE=DATE-TIME:20250108T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144445
+DTSTAMP:20250108T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250108T060000
+DTEND;VALUE=DATE-TIME:20250108T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154575
+DTSTAMP:20250111T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250111T060000
+DTEND;VALUE=DATE-TIME:20250111T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Tannenbaumabfuhr
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154375
+DTSTAMP:20250115T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250115T060000
+DTEND;VALUE=DATE-TIME:20250115T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145236
+DTSTAMP:20250122T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250122T060000
+DTEND;VALUE=DATE-TIME:20250122T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144446
+DTSTAMP:20250122T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250122T060000
+DTEND;VALUE=DATE-TIME:20250122T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154376
+DTSTAMP:20250129T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250129T060000
+DTEND;VALUE=DATE-TIME:20250129T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145237
+DTSTAMP:20250205T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250205T060000
+DTEND;VALUE=DATE-TIME:20250205T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144447
+DTSTAMP:20250205T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250205T060000
+DTEND;VALUE=DATE-TIME:20250205T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154377
+DTSTAMP:20250212T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250212T060000
+DTEND;VALUE=DATE-TIME:20250212T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145238
+DTSTAMP:20250219T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250219T060000
+DTEND;VALUE=DATE-TIME:20250219T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144448
+DTSTAMP:20250219T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250219T060000
+DTEND;VALUE=DATE-TIME:20250219T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154378
+DTSTAMP:20250226T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250226T060000
+DTEND;VALUE=DATE-TIME:20250226T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145239
+DTSTAMP:20250305T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250305T060000
+DTEND;VALUE=DATE-TIME:20250305T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144449
+DTSTAMP:20250305T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250305T060000
+DTEND;VALUE=DATE-TIME:20250305T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154379
+DTSTAMP:20250312T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250312T060000
+DTEND;VALUE=DATE-TIME:20250312T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145240
+DTSTAMP:20250319T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250319T060000
+DTEND;VALUE=DATE-TIME:20250319T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144450
+DTSTAMP:20250319T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250319T060000
+DTEND;VALUE=DATE-TIME:20250319T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154380
+DTSTAMP:20250326T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250326T060000
+DTEND;VALUE=DATE-TIME:20250326T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145241
+DTSTAMP:20250402T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250402T060000
+DTEND;VALUE=DATE-TIME:20250402T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144451
+DTSTAMP:20250402T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250402T060000
+DTEND;VALUE=DATE-TIME:20250402T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154381
+DTSTAMP:20250409T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250409T060000
+DTEND;VALUE=DATE-TIME:20250409T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145242
+DTSTAMP:20250416T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250416T060000
+DTEND;VALUE=DATE-TIME:20250416T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144452
+DTSTAMP:20250416T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250416T060000
+DTEND;VALUE=DATE-TIME:20250416T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154382
+DTSTAMP:20250423T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250423T060000
+DTEND;VALUE=DATE-TIME:20250423T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145243
+DTSTAMP:20250430T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250430T060000
+DTEND;VALUE=DATE-TIME:20250430T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144453
+DTSTAMP:20250430T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250430T060000
+DTEND;VALUE=DATE-TIME:20250430T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154383
+DTSTAMP:20250507T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250507T060000
+DTEND;VALUE=DATE-TIME:20250507T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145244
+DTSTAMP:20250514T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250514T060000
+DTEND;VALUE=DATE-TIME:20250514T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144454
+DTSTAMP:20250514T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250514T060000
+DTEND;VALUE=DATE-TIME:20250514T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154384
+DTSTAMP:20250521T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250521T060000
+DTEND;VALUE=DATE-TIME:20250521T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145245
+DTSTAMP:20250528T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250528T060000
+DTEND;VALUE=DATE-TIME:20250528T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144455
+DTSTAMP:20250528T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250528T060000
+DTEND;VALUE=DATE-TIME:20250528T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154385
+DTSTAMP:20250604T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250604T060000
+DTEND;VALUE=DATE-TIME:20250604T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145246
+DTSTAMP:20250611T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250611T060000
+DTEND;VALUE=DATE-TIME:20250611T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144456
+DTSTAMP:20250611T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250611T060000
+DTEND;VALUE=DATE-TIME:20250611T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:154386
+DTSTAMP:20250618T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250618T060000
+DTEND;VALUE=DATE-TIME:20250618T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Papier / Gelber Sack
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:145247
+DTSTAMP:20250625T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250625T060000
+DTEND;VALUE=DATE-TIME:20250625T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Bioabfall
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:144457
+DTSTAMP:20250625T000000Z
+CATEGORIES:Abfuhrtermine
+DESCRIPTION:Um Ihre Tonne leeren zu lassen\, stellen Sie diese bitte am Ab
+ fuhrtag mit geschlossenem Deckel und dem Griff zur Straße\, maximal zwei M
+ eter vom Fahrbahnrand entfernt auf den Gehweg.Das können Sie am Vortag ab 
+ 18:00 Uhr oder am Leerungstag bis spätestens 06:00 Uhr tun. Achten Sie bit
+ te auch darauf\, Ihre Tonne mit Straße und Hausnummer zu beschriften.
+DTSTART;VALUE=DATE-TIME:20250625T060000
+DTEND;VALUE=DATE-TIME:20250625T063000
+LOCATION:Bremen\,arberger heerstraße 92
+SUMMARY:Abfuhr: Restmüll
+BEGIN:VALARM
+TRIGGER:-P0DT12H0M0S
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
