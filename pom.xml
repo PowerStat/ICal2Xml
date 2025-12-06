@@ -18,6 +18,7 @@
 
   <properties>
     <license.inceptionYear>2024</license.inceptionYear>
+    <main>de.powerstat.converter.ical2xml.ICal2Xml</main>
 
   </properties>
 
